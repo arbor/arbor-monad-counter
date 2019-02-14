@@ -11,6 +11,7 @@ copyright:      Arbor Networks
 license:        MIT
 license-file:   LICENSE
 build-type:     Simple
+Synopsis:       Counter library for submitting metrics to a backend such as datadog
 extra-source-files:
     ChangeLog.md
     README.md

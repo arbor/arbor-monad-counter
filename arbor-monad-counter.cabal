@@ -44,6 +44,7 @@ library
 test-suite arbor-monad-counter-test
   type: exitcode-stdio-1.0
   main-is: Spec.hs
+  build-tools: hspec-discover
   other-modules:
       Arbor.Monad.Counter
       Arbor.Monad.Counter.Type

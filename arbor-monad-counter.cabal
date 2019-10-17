@@ -1,7 +1,7 @@
 cabal-version: 2.2
 
 name:                   arbor-monad-counter
-version:                2.0.1
+version:                2.0.2
 description:            Please see the README on Github at <https://github.com/arbor/arbor-monad-counter#readme>
 category:               Services
 homepage:               https://github.com/arbor/arbor-monad-counter#readme

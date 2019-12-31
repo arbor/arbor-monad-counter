@@ -75,8 +75,6 @@ test-suite arbor-monad-counter-test
   build-tool-depends:   hspec-discover:hspec-discover
   other-modules:        Arbor.Monad.Counter
                         Arbor.Monad.Counter.Type
-                        Paths_arbor_monad_counter
-  autogen-modules:      Paths_arbor_monad_counter
   hs-source-dirs:       test
                         src
   default-extensions:   BangPatterns FlexibleContexts FlexibleInstances GeneralizedNewtypeDeriving MultiParamTypeClasses OverloadedStrings TupleSections
